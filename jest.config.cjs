@@ -5,5 +5,5 @@ module.exports = {
   },
   moduleFileExtensions: ["js", "jsx", "json", "node"],
   testMatch: ["**/__tests__/**/*.test.js"],
-  estTimeout: 10000,
+  // estTimeout: 10000,
 };
